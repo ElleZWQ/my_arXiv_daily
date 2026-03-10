@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robot & Agent
@@ -334,51 +334,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**The Yerkes-Dodson Curve for AI Agents: Emergent Cooperation Under Environmental Pressure in Multi-Agent LLM Simulations**|Ivan Pasichnyk et.al.|[2603.07360](https://arxiv.org/abs/2603.07360)|null|
+|**2026-03-07**|**AutoUE: Automated Generation of 3D Games in Unreal Engine via Multi-Agent Systems**|Lei Yin et.al.|[2603.07106](https://arxiv.org/abs/2603.07106)|null|
+|**2026-03-06**|**MindfulAgents: Personalizing Mindfulness Meditation via an Expert-Aligned Multi-Agent System**|Mengyuan et.al.|[2603.06926](https://arxiv.org/abs/2603.06926)|null|
+|**2026-03-06**|**Evaluating Multi-Agent LLM Architectures for Rare Disease Diagnosis**|Ahmed Almasoud et.al.|[2603.06856](https://arxiv.org/abs/2603.06856)|null|
+|**2026-03-06**|**Agent Hunt: Bounty Based Collaborative Autoformalization With LLM Agents**|Chad E. Brown et.al.|[2603.06737](https://arxiv.org/abs/2603.06737)|null|
 |**2026-03-06**|**Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing**|Anmol Gulati et.al.|[2603.06503](https://arxiv.org/abs/2603.06503)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-03-06**|**MASFactory: A Graph-centric Framework for Orchestrating LLM-Based Multi-Agent Systems with Vibe Graphing**|Yang Liu et.al.|[2603.06007](https://arxiv.org/abs/2603.06007)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-03-06**|**An Interactive Multi-Agent System for Evaluation of New Product Concepts**|Bin Xuan et.al.|[2603.05980](https://arxiv.org/abs/2603.05980)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-03-06**|**DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality**|Yukun Huang et.al.|[2603.05912](https://arxiv.org/abs/2603.05912)|**[link](https://huggingface.co/datasets/kkkevinkkk/DeepFactBench)**|
 |**2026-03-06**|**Evolving Deception: When Agents Evolve, Deception Wins**|Zonghao Ying et.al.|[2603.05872](https://arxiv.org/abs/2603.05872)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
-|**2026-03-06**|**Evaluating LLM Alignment With Human Trust Models**|Anushka Debnath et.al.|[2603.05839](https://arxiv.org/abs/2603.05839)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
-|**2026-03-05**|**Combinatorial Safety-Critical Coordination of Multi-Agent Systems via Mixed-Integer Responsibility Allocation and Control Barrier Functions**|Johannes Autenrieb et.al.|[2603.05762](https://arxiv.org/abs/2603.05762)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4math)**|
+|**2026-03-06**|**Evaluating LLM Alignment With Human Trust Models**|Anushka Debnath et.al.|[2603.05839](https://arxiv.org/abs/2603.05839)|null|
+|**2026-03-05**|**Combinatorial Safety-Critical Coordination of Multi-Agent Systems via Mixed-Integer Responsibility Allocation and Control Barrier Functions**|Johannes Autenrieb et.al.|[2603.05762](https://arxiv.org/abs/2603.05762)|null|
 |**2026-03-05**|**Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline**|Guo Chen et.al.|[2603.05484](https://arxiv.org/abs/2603.05484)|**[link](https://huggingface.co/datasets/CG-Bench/MM-Lifelong)**|
-|**2026-03-05**|**CATNet: Collaborative Alignment and Transformation Network for Cooperative Perception**|Gong Chen et.al.|[2603.05255](https://arxiv.org/abs/2603.05255)|**[link](https://github.com/wendell0218/GVA-Survey)**|
+|**2026-03-05**|**CATNet: Collaborative Alignment and Transformation Network for Cooperative Perception**|Gong Chen et.al.|[2603.05255](https://arxiv.org/abs/2603.05255)|null|
 |**2026-03-05**|**Escaping the Hydrolysis Trap: An Agentic Workflow for Inverse Design of Durable Photocatalytic Covalent Organic Frameworks**|Iman Peivaste et.al.|[2603.05188](https://arxiv.org/abs/2603.05188)|**[link](https://github.com/jyyang621/DailyArXiv)**|
 |**2026-03-05**|**RepoLaunch: Automating Build&Test Pipeline of Code Repositories on ANY Language and ANY Platform**|Kenan Li et.al.|[2603.05026](https://arxiv.org/abs/2603.05026)|**[link](https://github.com/microsoft/SWE-bench-Live)**|
 |**2026-03-05**|**BioLLMAgent: A Hybrid Framework with Enhanced Structural Interpretability for Simulating Human Decision-Making in Computational Psychiatry**|Zuo Fei et.al.|[2603.05016](https://arxiv.org/abs/2603.05016)|**[link](https://github.com/gauravfs-14/awesome-mechanistic-interpretability)**|
-|**2026-03-05**|**Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems**|Hiroki Fukui et.al.|[2603.04904](https://arxiv.org/abs/2603.04904)|null|
-|**2026-03-05**|**EvoTool: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection**|Shuo Yang et.al.|[2603.04900](https://arxiv.org/abs/2603.04900)|null|
-|**2026-03-05**|**HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel**|The Viet Bui et.al.|[2603.04750](https://arxiv.org/abs/2603.04750)|null|
+|**2026-03-05**|**Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems**|Hiroki Fukui et.al.|[2603.04904](https://arxiv.org/abs/2603.04904)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
+|**2026-03-05**|**EvoTool: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection**|Shuo Yang et.al.|[2603.04900](https://arxiv.org/abs/2603.04900)|**[link](https://github.com/jyyang621/DailyArXiv)**|
+|**2026-03-05**|**HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel**|The Viet Bui et.al.|[2603.04750](https://arxiv.org/abs/2603.04750)|**[link](https://github.com/jyyang621/DailyArXiv)**|
 |**2026-03-05**|**DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval**|Maojun Sun et.al.|[2603.04743](https://arxiv.org/abs/2603.04743)|**[link](https://huggingface.co/models/Stephen-SMJ/DARE-R-Retriever)**|
-|**2026-03-04**|**Strategic Interactions in Multi-Level Stackelberg Games with Non-Follower Agents and Heterogeneous Leaders**|Niloofar Aminikalibar et.al.|[2603.04628](https://arxiv.org/abs/2603.04628)|null|
-|**2026-03-04**|**Adaptive Memory Admission Control for LLM Agents**|Guilin Zhang et.al.|[2603.04549](https://arxiv.org/abs/2603.04549)|null|
-|**2026-03-04**|**Discovering mathematical concepts through a multi-agent system**|Daattavya Aggarwal et.al.|[2603.04528](https://arxiv.org/abs/2603.04528)|**[link](https://github.com/jyyang621/DailyArXiv)**|
+|**2026-03-04**|**Strategic Interactions in Multi-Level Stackelberg Games with Non-Follower Agents and Heterogeneous Leaders**|Niloofar Aminikalibar et.al.|[2603.04628](https://arxiv.org/abs/2603.04628)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4economy)**|
+|**2026-03-04**|**Adaptive Memory Admission Control for LLM Agents**|Guilin Zhang et.al.|[2603.04549](https://arxiv.org/abs/2603.04549)|**[link](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)**|
+|**2026-03-04**|**Discovering mathematical concepts through a multi-agent system**|Daattavya Aggarwal et.al.|[2603.04528](https://arxiv.org/abs/2603.04528)|null|
 |**2026-03-04**|**From Spark to Fire: Modeling and Mitigating Error Cascades in LLM-Based Multi-Agent Collaboration**|Yizhe Xie et.al.|[2603.04474](https://arxiv.org/abs/2603.04474)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2026-03-04**|**Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware Attack Detection**|Yangyang Wei et.al.|[2603.04469](https://arxiv.org/abs/2603.04469)|null|
 |**2026-03-03**|**Act-Observe-Rewrite: Multimodal Coding Agents as In-Context Policy Learners for Robot Manipulation**|Vaishak Kumar et.al.|[2603.04466](https://arxiv.org/abs/2603.04466)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-03-04**|**Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory**|Zhenting Wang et.al.|[2603.04257](https://arxiv.org/abs/2603.04257)|**[link](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)**|
-|**2026-03-04**|**CodeTaste: Can LLMs Generate Human-Level Code Refactorings?**|Alex Thillen et.al.|[2603.04177](https://arxiv.org/abs/2603.04177)|**[link](https://github.com/zachysun/DailyArXiv)**|
+|**2026-03-04**|**CodeTaste: Can LLMs Generate Human-Level Code Refactorings?**|Alex Thillen et.al.|[2603.04177](https://arxiv.org/abs/2603.04177)|**[link](https://github.com/logic-star-ai/codetaste)**|
 |**2026-03-04**|**A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series**|Davide Gabrielli et.al.|[2603.04142](https://arxiv.org/abs/2603.04142)|**[link](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)**|
 |**2026-03-04**|**GIPO: Gaussian Importance Sampling Policy Optimization**|Chengxuan Lu et.al.|[2603.03955](https://arxiv.org/abs/2603.03955)|**[link](https://github.com/RuntimeErrorz/arxiv-daily)**|
 |**2026-03-04**|**From Threat Intelligence to Firewall Rules: Semantic Relations in Hybrid AI Agent and Expert System Architectures**|Chiara Bonfanti et.al.|[2603.03911](https://arxiv.org/abs/2603.03911)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4math)**|
 |**2026-03-04**|**AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation**|Yunxiao Shi et.al.|[2603.03761](https://arxiv.org/abs/2603.03761)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4chem)**|
-|**2026-03-04**|**AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment**|Jiangyu Chen et.al.|[2603.03686](https://arxiv.org/abs/2603.03686)|null|
-|**2026-03-04**|**MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation**|Lu Yang et.al.|[2603.03680](https://arxiv.org/abs/2603.03680)|null|
-|**2026-03-04**|**Mozi: Governed Autonomy for Drug Discovery LLM Agents**|He Cao et.al.|[2603.03655](https://arxiv.org/abs/2603.03655)|null|
-|**2026-03-04**|**Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study**|Neha Nagaraja et.al.|[2603.03633](https://arxiv.org/abs/2603.03633)|**[link](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)**|
-|**2026-03-03**|**Social Norm Reasoning in Multimodal Language Models: An Evaluation**|Oishik Chowdhury et.al.|[2603.03590](https://arxiv.org/abs/2603.03590)|**[link](https://github.com/zachysun/DailyArXiv)**|
+|**2026-03-04**|**AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment**|Jiangyu Chen et.al.|[2603.03686](https://arxiv.org/abs/2603.03686)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
+|**2026-03-04**|**MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation**|Lu Yang et.al.|[2603.03680](https://arxiv.org/abs/2603.03680)|**[link](https://github.com/wendell0218/GVA-Survey)**|
+|**2026-03-04**|**Mozi: Governed Autonomy for Drug Discovery LLM Agents**|He Cao et.al.|[2603.03655](https://arxiv.org/abs/2603.03655)|**[link](https://github.com/wendell0218/GVA-Survey)**|
+|**2026-03-04**|**Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study**|Neha Nagaraja et.al.|[2603.03633](https://arxiv.org/abs/2603.03633)|null|
+|**2026-03-03**|**Social Norm Reasoning in Multimodal Language Models: An Evaluation**|Oishik Chowdhury et.al.|[2603.03590](https://arxiv.org/abs/2603.03590)|null|
 |**2026-03-03**|**Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants**|Alejandro Breen Herrera et.al.|[2603.03565](https://arxiv.org/abs/2603.03565)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-03-03**|**Molt Dynamics: Emergent Social Phenomena in Autonomous AI Agent Populations**|Brandon Yee et.al.|[2603.03555](https://arxiv.org/abs/2603.03555)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2026-03-05**|**AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis**|Pei Yang et.al.|[2603.03378](https://arxiv.org/abs/2603.03378)|**[link](https://github.com/zezhishao/DailyArXiv)**|
-|**2026-03-03**|**Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation**|Hongliu Cao et.al.|[2603.03116](https://arxiv.org/abs/2603.03116)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
+|**2026-03-03**|**Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation**|Hongliu Cao et.al.|[2603.03116](https://arxiv.org/abs/2603.03116)|null|
 |**2026-03-03**|**RAPO: Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization**|Siwei Zhang et.al.|[2603.03078](https://arxiv.org/abs/2603.03078)|**[link](https://github.com/wendell0218/GVA-Survey)**|
 |**2026-03-03**|**OrchMAS: Orchestrated Reasoning with Multi Collaborative Heterogeneous Scientific Expert Structured Agents**|Yichao Feng et.al.|[2603.03005](https://arxiv.org/abs/2603.03005)|**[link](https://github.com/dvlan26/daily-arxiv-ai4sensor)**|
 |**2026-03-03**|**Contextualized Privacy Defense for LLM Agents**|Yule Wen et.al.|[2603.02983](https://arxiv.org/abs/2603.02983)|**[link](https://huggingface.co/datasets/SALT-NLP/Contextualized_Privacy_Defense_Trajectory)**|
-|**2026-03-03**|**EvoSkill: Automated Skill Discovery for Multi-Agent Systems**|Salaheddin Alzubi et.al.|[2603.02766](https://arxiv.org/abs/2603.02766)|null|
-|**2026-03-03**|**Graph-GRPO: Stabilizing Multi-Agent Topology Learning via Group Relative Policy Optimization**|Yueyang Cang et.al.|[2603.02701](https://arxiv.org/abs/2603.02701)|null|
-|**2026-03-04**|**Causal Learning Should Embrace the Wisdom of the Crowd**|Ryan Feng Lin et.al.|[2603.02678](https://arxiv.org/abs/2603.02678)|null|
+|**2026-03-03**|**EvoSkill: Automated Skill Discovery for Multi-Agent Systems**|Salaheddin Alzubi et.al.|[2603.02766](https://arxiv.org/abs/2603.02766)|**[link](https://github.com/kyegomez/awesome-multi-agent-papers)**|
+|**2026-03-03**|**Graph-GRPO: Stabilizing Multi-Agent Topology Learning via Group Relative Policy Optimization**|Yueyang Cang et.al.|[2603.02701](https://arxiv.org/abs/2603.02701)|**[link](https://github.com/wendell0218/GVA-Survey)**|
+|**2026-03-04**|**Causal Learning Should Embrace the Wisdom of the Crowd**|Ryan Feng Lin et.al.|[2603.02678](https://arxiv.org/abs/2603.02678)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-03-03**|**MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks**|Zhi Hong et.al.|[2603.02630](https://arxiv.org/abs/2603.02630)|**[link](https://github.com/zezhishao/DailyArXiv)**|
-|**2026-03-03**|**See and Remember: A Multimodal Agent for Web Traversal**|Xinjun Wang et.al.|[2603.02626](https://arxiv.org/abs/2603.02626)|**[link](https://github.com/zachysun/DailyArXiv)**|
+|**2026-03-03**|**See and Remember: A Multimodal Agent for Web Traversal**|Xinjun Wang et.al.|[2603.02626](https://arxiv.org/abs/2603.02626)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-03-02**|**Diagnosing Retrieval vs. Utilization Bottlenecks in LLM Agent Memory**|Boqin Yuan et.al.|[2603.02473](https://arxiv.org/abs/2603.02473)|null|
 |**2026-03-02**|**RIVA: Leveraging LLM Agents for Reliable Configuration Drift Detection**|Sami Abuzakuk et.al.|[2603.02345](https://arxiv.org/abs/2603.02345)|null|
 |**2026-03-02**|**ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense**|Nancy Lau et.al.|[2603.02297](https://arxiv.org/abs/2603.02297)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
@@ -2586,30 +2591,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**The Yerkes-Dodson Curve for AI Agents: Emergent Cooperation Under Environmental Pressure in Multi-Agent LLM Simulations**|Ivan Pasichnyk et.al.|[2603.07360](https://arxiv.org/abs/2603.07360)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**AutoUE: Automated Generation of 3D Games in Unreal Engine via Multi-Agent Systems**|Lei Yin et.al.|[2603.07106](https://arxiv.org/abs/2603.07106)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-06**|**MindfulAgents: Personalizing Mindfulness Meditation via an Expert-Aligned Multi-Agent System**|Mengyuan et.al.|[2603.06926](https://arxiv.org/abs/2603.06926)|null|
+|**2026-03-06**|**Evaluating Multi-Agent LLM Architectures for Rare Disease Diagnosis**|Ahmed Almasoud et.al.|[2603.06856](https://arxiv.org/abs/2603.06856)|null|
+|**2026-03-06**|**Agent Hunt: Bounty Based Collaborative Autoformalization With LLM Agents**|Chad E. Brown et.al.|[2603.06737](https://arxiv.org/abs/2603.06737)|null|
 |**2026-03-06**|**Beyond Rows to Reasoning: Agentic Retrieval for Multimodal Spreadsheet Understanding and Editing**|Anmol Gulati et.al.|[2603.06503](https://arxiv.org/abs/2603.06503)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-03-06**|**MASFactory: A Graph-centric Framework for Orchestrating LLM-Based Multi-Agent Systems with Vibe Graphing**|Yang Liu et.al.|[2603.06007](https://arxiv.org/abs/2603.06007)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2026-03-06**|**An Interactive Multi-Agent System for Evaluation of New Product Concepts**|Bin Xuan et.al.|[2603.05980](https://arxiv.org/abs/2603.05980)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2026-03-06**|**An Interactive Multi-Agent System for Evaluation of New Product Concepts**|Bin Xuan et.al.|[2603.05980](https://arxiv.org/abs/2603.05980)|null|
 |**2026-03-06**|**DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality**|Yukun Huang et.al.|[2603.05912](https://arxiv.org/abs/2603.05912)|**[link](https://huggingface.co/datasets/kkkevinkkk/DeepFactBench)**|
-|**2026-03-06**|**Evolving Deception: When Agents Evolve, Deception Wins**|Zonghao Ying et.al.|[2603.05872](https://arxiv.org/abs/2603.05872)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
-|**2026-03-06**|**Evaluating LLM Alignment With Human Trust Models**|Anushka Debnath et.al.|[2603.05839](https://arxiv.org/abs/2603.05839)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
+|**2026-03-06**|**Evolving Deception: When Agents Evolve, Deception Wins**|Zonghao Ying et.al.|[2603.05872](https://arxiv.org/abs/2603.05872)|null|
+|**2026-03-06**|**Evaluating LLM Alignment With Human Trust Models**|Anushka Debnath et.al.|[2603.05839](https://arxiv.org/abs/2603.05839)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2026-03-05**|**Combinatorial Safety-Critical Coordination of Multi-Agent Systems via Mixed-Integer Responsibility Allocation and Control Barrier Functions**|Johannes Autenrieb et.al.|[2603.05762](https://arxiv.org/abs/2603.05762)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4math)**|
 |**2026-03-05**|**Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline**|Guo Chen et.al.|[2603.05484](https://arxiv.org/abs/2603.05484)|**[link](https://huggingface.co/datasets/CG-Bench/MM-Lifelong)**|
-|**2026-03-05**|**CATNet: Collaborative Alignment and Transformation Network for Cooperative Perception**|Gong Chen et.al.|[2603.05255](https://arxiv.org/abs/2603.05255)|null|
-|**2026-03-05**|**Escaping the Hydrolysis Trap: An Agentic Workflow for Inverse Design of Durable Photocatalytic Covalent Organic Frameworks**|Iman Peivaste et.al.|[2603.05188](https://arxiv.org/abs/2603.05188)|null|
+|**2026-03-05**|**CATNet: Collaborative Alignment and Transformation Network for Cooperative Perception**|Gong Chen et.al.|[2603.05255](https://arxiv.org/abs/2603.05255)|**[link](https://github.com/Little-Podi/Collaborative_Perception)**|
+|**2026-03-05**|**Escaping the Hydrolysis Trap: An Agentic Workflow for Inverse Design of Durable Photocatalytic Covalent Organic Frameworks**|Iman Peivaste et.al.|[2603.05188](https://arxiv.org/abs/2603.05188)|**[link](https://github.com/jyyang621/DailyArXiv)**|
 |**2026-03-05**|**RepoLaunch: Automating Build&Test Pipeline of Code Repositories on ANY Language and ANY Platform**|Kenan Li et.al.|[2603.05026](https://arxiv.org/abs/2603.05026)|**[link](https://github.com/microsoft/SWE-bench-Live)**|
 |**2026-03-05**|**BioLLMAgent: A Hybrid Framework with Enhanced Structural Interpretability for Simulating Human Decision-Making in Computational Psychiatry**|Zuo Fei et.al.|[2603.05016](https://arxiv.org/abs/2603.05016)|**[link](https://github.com/gauravfs-14/awesome-mechanistic-interpretability)**|
 |**2026-03-05**|**Alignment Backfire: Language-Dependent Reversal of Safety Interventions Across 16 Languages in LLM Multi-Agent Systems**|Hiroki Fukui et.al.|[2603.04904](https://arxiv.org/abs/2603.04904)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2026-03-05**|**EvoTool: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection**|Shuo Yang et.al.|[2603.04900](https://arxiv.org/abs/2603.04900)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2026-03-05**|**HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel**|The Viet Bui et.al.|[2603.04750](https://arxiv.org/abs/2603.04750)|**[link](https://github.com/jyyang621/DailyArXiv)**|
+|**2026-03-05**|**HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel**|The Viet Bui et.al.|[2603.04750](https://arxiv.org/abs/2603.04750)|null|
 |**2026-03-05**|**DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval**|Maojun Sun et.al.|[2603.04743](https://arxiv.org/abs/2603.04743)|**[link](https://huggingface.co/models/Stephen-SMJ/DARE-R-Retriever)**|
-|**2026-03-04**|**Strategic Interactions in Multi-Level Stackelberg Games with Non-Follower Agents and Heterogeneous Leaders**|Niloofar Aminikalibar et.al.|[2603.04628](https://arxiv.org/abs/2603.04628)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2026-03-04**|**Adaptive Memory Admission Control for LLM Agents**|Guilin Zhang et.al.|[2603.04549](https://arxiv.org/abs/2603.04549)|**[link](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)**|
-|**2026-03-04**|**Discovering mathematical concepts through a multi-agent system**|Daattavya Aggarwal et.al.|[2603.04528](https://arxiv.org/abs/2603.04528)|null|
+|**2026-03-04**|**Strategic Interactions in Multi-Level Stackelberg Games with Non-Follower Agents and Heterogeneous Leaders**|Niloofar Aminikalibar et.al.|[2603.04628](https://arxiv.org/abs/2603.04628)|null|
+|**2026-03-04**|**Adaptive Memory Admission Control for LLM Agents**|Guilin Zhang et.al.|[2603.04549](https://arxiv.org/abs/2603.04549)|null|
+|**2026-03-04**|**Discovering mathematical concepts through a multi-agent system**|Daattavya Aggarwal et.al.|[2603.04528](https://arxiv.org/abs/2603.04528)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-03-04**|**From Spark to Fire: Modeling and Mitigating Error Cascades in LLM-Based Multi-Agent Collaboration**|Yizhe Xie et.al.|[2603.04474](https://arxiv.org/abs/2603.04474)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2026-03-04**|**Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware Attack Detection**|Yangyang Wei et.al.|[2603.04469](https://arxiv.org/abs/2603.04469)|null|
 |**2026-03-03**|**Act-Observe-Rewrite: Multimodal Coding Agents as In-Context Policy Learners for Robot Manipulation**|Vaishak Kumar et.al.|[2603.04466](https://arxiv.org/abs/2603.04466)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
-|**2026-03-04**|**Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory**|Zhenting Wang et.al.|[2603.04257](https://arxiv.org/abs/2603.04257)|null|
-|**2026-03-04**|**CodeTaste: Can LLMs Generate Human-Level Code Refactorings?**|Alex Thillen et.al.|[2603.04177](https://arxiv.org/abs/2603.04177)|null|
+|**2026-03-04**|**Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory**|Zhenting Wang et.al.|[2603.04257](https://arxiv.org/abs/2603.04257)|**[link](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)**|
+|**2026-03-04**|**CodeTaste: Can LLMs Generate Human-Level Code Refactorings?**|Alex Thillen et.al.|[2603.04177](https://arxiv.org/abs/2603.04177)|**[link](https://github.com/logic-star-ai/codetaste)**|
 |**2026-03-04**|**A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series**|Davide Gabrielli et.al.|[2603.04142](https://arxiv.org/abs/2603.04142)|**[link](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)**|
 |**2026-03-04**|**GIPO: Gaussian Importance Sampling Policy Optimization**|Chengxuan Lu et.al.|[2603.03955](https://arxiv.org/abs/2603.03955)|**[link](https://github.com/RuntimeErrorz/arxiv-daily)**|
 |**2026-03-04**|**From Threat Intelligence to Firewall Rules: Semantic Relations in Hybrid AI Agent and Expert System Architectures**|Chiara Bonfanti et.al.|[2603.03911](https://arxiv.org/abs/2603.03911)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4math)**|
@@ -2617,7 +2627,7 @@ layout: default
 |**2026-03-04**|**AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment**|Jiangyu Chen et.al.|[2603.03686](https://arxiv.org/abs/2603.03686)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-03-04**|**MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation**|Lu Yang et.al.|[2603.03680](https://arxiv.org/abs/2603.03680)|null|
 |**2026-03-04**|**Mozi: Governed Autonomy for Drug Discovery LLM Agents**|He Cao et.al.|[2603.03655](https://arxiv.org/abs/2603.03655)|null|
-|**2026-03-04**|**Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study**|Neha Nagaraja et.al.|[2603.03633](https://arxiv.org/abs/2603.03633)|**[link](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)**|
+|**2026-03-04**|**Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study**|Neha Nagaraja et.al.|[2603.03633](https://arxiv.org/abs/2603.03633)|null|
 |**2026-03-03**|**Social Norm Reasoning in Multimodal Language Models: An Evaluation**|Oishik Chowdhury et.al.|[2603.03590](https://arxiv.org/abs/2603.03590)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2026-03-03**|**Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants**|Alejandro Breen Herrera et.al.|[2603.03565](https://arxiv.org/abs/2603.03565)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-03-03**|**Molt Dynamics: Emergent Social Phenomena in Autonomous AI Agent Populations**|Brandon Yee et.al.|[2603.03555](https://arxiv.org/abs/2603.03555)|**[link](https://github.com/zachysun/DailyArXiv)**|
@@ -2627,11 +2637,11 @@ layout: default
 |**2026-03-03**|**MA-CoNav: A Master-Slave Multi-Agent Framework with Hierarchical Collaboration and Dual-Level Reflection for Long-Horizon Embodied VLN**|Ling Luo et.al.|[2603.03024](https://arxiv.org/abs/2603.03024)|**[link](https://github.com/wendell0218/GVA-Survey)**|
 |**2026-03-03**|**OrchMAS: Orchestrated Reasoning with Multi Collaborative Heterogeneous Scientific Expert Structured Agents**|Yichao Feng et.al.|[2603.03005](https://arxiv.org/abs/2603.03005)|**[link](https://github.com/dvlan26/daily-arxiv-ai4sensor)**|
 |**2026-03-03**|**Contextualized Privacy Defense for LLM Agents**|Yule Wen et.al.|[2603.02983](https://arxiv.org/abs/2603.02983)|**[link](https://huggingface.co/datasets/SALT-NLP/Contextualized_Privacy_Defense_Trajectory)**|
-|**2026-03-03**|**EvoSkill: Automated Skill Discovery for Multi-Agent Systems**|Salaheddin Alzubi et.al.|[2603.02766](https://arxiv.org/abs/2603.02766)|null|
-|**2026-03-03**|**Graph-GRPO: Stabilizing Multi-Agent Topology Learning via Group Relative Policy Optimization**|Yueyang Cang et.al.|[2603.02701](https://arxiv.org/abs/2603.02701)|null|
+|**2026-03-03**|**EvoSkill: Automated Skill Discovery for Multi-Agent Systems**|Salaheddin Alzubi et.al.|[2603.02766](https://arxiv.org/abs/2603.02766)|**[link](https://github.com/kyegomez/awesome-multi-agent-papers)**|
+|**2026-03-03**|**Graph-GRPO: Stabilizing Multi-Agent Topology Learning via Group Relative Policy Optimization**|Yueyang Cang et.al.|[2603.02701](https://arxiv.org/abs/2603.02701)|**[link](https://github.com/wendell0218/GVA-Survey)**|
 |**2026-03-04**|**Causal Learning Should Embrace the Wisdom of the Crowd**|Ryan Feng Lin et.al.|[2603.02678](https://arxiv.org/abs/2603.02678)|null|
-|**2026-03-03**|**MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks**|Zhi Hong et.al.|[2603.02630](https://arxiv.org/abs/2603.02630)|null|
-|**2026-03-03**|**See and Remember: A Multimodal Agent for Web Traversal**|Xinjun Wang et.al.|[2603.02626](https://arxiv.org/abs/2603.02626)|**[link](https://github.com/zachysun/DailyArXiv)**|
+|**2026-03-03**|**MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks**|Zhi Hong et.al.|[2603.02630](https://arxiv.org/abs/2603.02630)|**[link](https://github.com/zezhishao/DailyArXiv)**|
+|**2026-03-03**|**See and Remember: A Multimodal Agent for Web Traversal**|Xinjun Wang et.al.|[2603.02626](https://arxiv.org/abs/2603.02626)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-03-02**|**Diagnosing Retrieval vs. Utilization Bottlenecks in LLM Agent Memory**|Boqin Yuan et.al.|[2603.02473](https://arxiv.org/abs/2603.02473)|**[link](https://github.com/IAAR-Shanghai/Awesome-AI-Memory)**|
 |**2026-03-02**|**RIVA: Leveraging LLM Agents for Reliable Configuration Drift Detection**|Sami Abuzakuk et.al.|[2603.02345](https://arxiv.org/abs/2603.02345)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-03-02**|**ZeroDayBench: Evaluating LLM Agents on Unseen Zero-Day Vulnerabilities for Cyberdefense**|Nancy Lau et.al.|[2603.02297](https://arxiv.org/abs/2603.02297)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
@@ -4869,6 +4879,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-08**|**Interpretable Aneurysm Classification via 3D Concept Bottleneck Models: Integrating Morphological and Hemodynamic Clinical Features**|Toqa Khaled et.al.|[2603.07399](https://arxiv.org/abs/2603.07399)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
+|**2026-03-08**|**AQuA: Toward Strategic Response Generation for Ambiguous Visual Questions**|Jihyoung Jang et.al.|[2603.07394](https://arxiv.org/abs/2603.07394)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-08**|**Underwater Embodied Intelligence for Autonomous Robots: A Constraint-Coupled Perspective on Planning, Control, and Deployment**|Jingzehua Xu et.al.|[2603.07393](https://arxiv.org/abs/2603.07393)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-08**|**Deterministic Fuzzy Triage for Legal Compliance Classification and Evidence Retrieval**|Rian Atri et.al.|[2603.07390](https://arxiv.org/abs/2603.07390)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-08**|**Feed m Birds with One Scone: Accelerating Multi-task Gradient Balancing via Bi-level Optimization**|Xuxing Chen et.al.|[2603.07389](https://arxiv.org/abs/2603.07389)|null|
+|**2026-03-08**|**Sparsity and Out-of-Distribution Generalization**|Scott Aaronson et.al.|[2603.07388](https://arxiv.org/abs/2603.07388)|null|
+|**2026-03-07**|**DiffSIM: Unconditional and conditional facies simulation based on denoising diffusion generative models**|Minghui Xu et.al.|[2603.07383](https://arxiv.org/abs/2603.07383)|null|
+|**2026-03-07**|**Scheduling Parallel Optical Circuit Switches for AI Training**|Kevin Liang et.al.|[2603.07373](https://arxiv.org/abs/2603.07373)|null|
+|**2026-03-07**|**Learning to Reflect: Hierarchical Multi-Agent Reinforcement Learning for CSI-Free mmWave Beam-Focusing**|Hieu Le et.al.|[2603.07370](https://arxiv.org/abs/2603.07370)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Task learning increases information redundancy of neural responses in macaque visual cortex**|Shizhao Liu et.al.|[2603.07369](https://arxiv.org/abs/2603.07369)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4physics)**|
+|**2026-03-07**|**Scaling Laws in the Tiny Regime: How Small Models Change Their Mistakes**|Mohammed Alnemari et.al.|[2603.07365](https://arxiv.org/abs/2603.07365)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Neural Control and Learning of Simulated Hand Movements With an EMG-Based Closed-Loop Interface**|Balint K. Hodossy et.al.|[2603.07364](https://arxiv.org/abs/2603.07364)|null|
+|**2026-03-07**|**The Yerkes-Dodson Curve for AI Agents: Emergent Cooperation Under Environmental Pressure in Multi-Agent LLM Simulations**|Ivan Pasichnyk et.al.|[2603.07360](https://arxiv.org/abs/2603.07360)|null|
+|**2026-03-07**|**AgrI Challenge: A Data-Centric AI Competition for Cross-Team Validation in Agricultural Vision**|Mohammed Brahimi et.al.|[2603.07356](https://arxiv.org/abs/2603.07356)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Pre-Clinical Latency Characterization of VRxBioRelax: A Real-Time EMG Biofeedback System for Muscle Relaxation in Virtual Reality**|Melanie Baumgartner et.al.|[2603.07353](https://arxiv.org/abs/2603.07353)|null|
+|**2026-03-07**|**A Distributed Gaussian Process Model for Multi-Robot Mapping**|Seth Nabarro et.al.|[2603.07351](https://arxiv.org/abs/2603.07351)|null|
+|**2026-03-07**|**Learning Clinical Representations Under Systematic Distribution Shift**|Yuanyun Zhang et.al.|[2603.07348](https://arxiv.org/abs/2603.07348)|null|
+|**2026-03-07**|**How Much Noise Can BERT Handle? Insights from Multilingual Sentence Difficulty Detection**|Nouran Khallaf et.al.|[2603.07346](https://arxiv.org/abs/2603.07346)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Explainable and Hardware-Efficient Jamming Detection for 5G Networks Using the Convolutional Tsetlin Machine**|Vojtech Halenka et.al.|[2603.07336](https://arxiv.org/abs/2603.07336)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Self-Supervised Evolutionary Learning of Neurodynamic Progression and Identity Manifolds from EEG During Safety-Critical Decision Making**|Xiaoshan Zhou et.al.|[2603.07334](https://arxiv.org/abs/2603.07334)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4physics)**|
+|**2026-03-07**|**The Third Ambition: Artificial Intelligence and the Science of Human Behavior**|W. Russell Neuman et.al.|[2603.07329](https://arxiv.org/abs/2603.07329)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Norm-Hierarchy Transitions in Representation Learning: When and Why Neural Networks Abandon Shortcuts**|Truong Xuan Khanh et.al.|[2603.07323](https://arxiv.org/abs/2603.07323)|null|
+|**2026-03-07**|**Adversarial Latent-State Training for Robust Policies in Partially Observable Domains**|Angad Singh Ahuja et.al.|[2603.07313](https://arxiv.org/abs/2603.07313)|**[link](https://github.com/AngadSingh22/adversarial_pomdp)**|
+|**2026-03-07**|**Training for Trustworthy Saliency Maps: Adversarial Training Meets Feature-Map Smoothing**|Dipkamal Bhusal et.al.|[2603.07302](https://arxiv.org/abs/2603.07302)|**[link](https://github.com/dipkamal/robustness_plus_smoothing)**|
+|**2026-03-07**|**AutoResearch-RL: Perpetual Self-Evaluating Reinforcement Learning Agents for Autonomous Neural Architecture Discovery**|Nilesh Jain et.al.|[2603.07300](https://arxiv.org/abs/2603.07300)|null|
+|**2026-03-07**|**To What Extent Are Star Cluster Ages Encoded in Their Environments? Exploring the Spatial Distribution of Age-Related Information with PHANGS-HST Imaging and Convolutional Neural Networks**|Javier Viaña et.al.|[2603.07289](https://arxiv.org/abs/2603.07289)|null|
+|**2026-03-07**|**Taiwan Safety Benchmark and Breeze Guard: Toward Trustworthy AI for Taiwanese Mandarin**|Po-Chun Hsu et.al.|[2603.07286](https://arxiv.org/abs/2603.07286)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Learning When to Look: On-Demand Keypoint-Video Fusion for Animal Behavior Analysis**|Weihan Li et.al.|[2603.07279](https://arxiv.org/abs/2603.07279)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Variational Flow Maps: Make Some Noise for One-Step Conditional Generation**|Abbas Mammadov et.al.|[2603.07276](https://arxiv.org/abs/2603.07276)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
+|**2026-03-07**|**Adaptive Double-Booking Strategy for Outpatient Scheduling Using Multi-Objective Reinforcement Learning**|Ninda Nurseha Amalina et.al.|[2603.07270](https://arxiv.org/abs/2603.07270)|**[link](https://github.com/amalinand/DBRL)**|
+|**2026-03-07**|**Kinematics-Aware Latent World Models for Data-Efficient Autonomous Driving**|Jiazhuo Li et.al.|[2603.07264](https://arxiv.org/abs/2603.07264)|null|
+|**2026-03-07**|**Learning When to Cooperate Under Heterogeneous Goals**|Max Taylor-Davies et.al.|[2603.07253](https://arxiv.org/abs/2603.07253)|null|
+|**2026-03-07**|**FabricGen: Microstructure-Aware Woven Fabric Generation**|Yingjie Tang et.al.|[2603.07240](https://arxiv.org/abs/2603.07240)|null|
+|**2026-03-07**|**Reinforcement Learning for Vehicle-to-Grid Voltage Regulation: Single-Hub to Multi-Hub Coordination with Battery-Aware Constraints**|Jingbo Wang et.al.|[2603.07237](https://arxiv.org/abs/2603.07237)|null|
+|**2026-03-07**|**HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing**|Tencent HY Team et.al.|[2603.07236](https://arxiv.org/abs/2603.07236)|null|
+|**2026-03-07**|**Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation**|Andrea Giuseppe Di Francesco et.al.|[2603.07233](https://arxiv.org/abs/2603.07233)|**[link](https://github.com/difra100/PT-RAG_ICLR)**|
+|**2026-03-07**|**Unlocking Data Value in Finance: A Study on Distillation and Difficulty-Aware Training**|Chuxue Cao et.al.|[2603.07223](https://arxiv.org/abs/2603.07223)|null|
+|**2026-03-07**|**Towards Objective Gastrointestinal Auscultation: Automated Segmentation and Annotation of Bowel Sound Patterns**|Zahra Mansour et.al.|[2603.07215](https://arxiv.org/abs/2603.07215)|**[link](https://github.com/AI4HealthUOL/Bowel-sound-auto-annotations)**|
+|**2026-03-07**|**wDPO: Winsorized Direct Preference Optimization for Robust LLM Alignment**|Jilong Liu et.al.|[2603.07211](https://arxiv.org/abs/2603.07211)|null|
+|**2026-03-07**|**A Dual-Graph Spatiotemporal GNN Surrogate for Nonlinear Response Prediction of Reinforced Concrete Beams under Four-Point Bending**|Zhaoyang Ren et.al.|[2603.07201](https://arxiv.org/abs/2603.07201)|null|
+|**2026-03-07**|**$\textbf{Re}^{2}$ : Unlocking LLM Reasoning via Reinforcement Learning with Re-solving**|Pinzheng Wang et.al.|[2603.07197](https://arxiv.org/abs/2603.07197)|null|
+|**2026-03-07**|**Shaping Parameter Contribution Patterns for Out-of-Distribution Detection**|Haonan Xu et.al.|[2603.07195](https://arxiv.org/abs/2603.07195)|null|
+|**2026-03-07**|**FastSTAR: Spatiotemporal Token Pruning for Efficient Autoregressive Video Synthesis**|Sungwoong Yune et.al.|[2603.07192](https://arxiv.org/abs/2603.07192)|null|
+|**2026-03-07**|**FreeFly-Thinking : Aligning Chain-of-Thought Reasoning with Continuous UAV Navigation**|Jiaxu Zhou et.al.|[2603.07181](https://arxiv.org/abs/2603.07181)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG**|Haonan Yuan et.al.|[2603.07179](https://arxiv.org/abs/2603.07179)|**[link](https://github.com/eerstar/LLM-Agent-paper-daily)**|
+|**2026-03-07**|**Learning to Rank the Initial Branching Order of SAT Solvers**|Arvid Eriksson et.al.|[2603.07176](https://arxiv.org/abs/2603.07176)|null|
+|**2026-03-07**|**ACD-U: Asymmetric co-teaching with machine unlearning for robust learning with noisy labels**|Reo Fukunaga et.al.|[2603.07166](https://arxiv.org/abs/2603.07166)|null|
+|**2026-03-07**|**Agentic Planning with Reasoning for Image Styling via Offline RL**|Subhojyoti Mukherjee et.al.|[2603.07148](https://arxiv.org/abs/2603.07148)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
+|**2026-03-07**|**The Model Knows Which Tokens Matter: Automatic Token Selection via Noise Gating**|Landi He et.al.|[2603.07135](https://arxiv.org/abs/2603.07135)|null|
+|**2026-03-07**|**Toward Multimodal Industrial Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals**|Zhang Chen et.al.|[2603.07130](https://arxiv.org/abs/2603.07130)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4geo)**|
 |**2026-03-06**|**Multimodal Large Language Models as Image Classifiers**|Nikita Kisel et.al.|[2603.06578](https://arxiv.org/abs/2603.06578)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-03-06**|**Fly360: Omnidirectional Obstacle Avoidance within Drone View**|Xiangkai Zhang et.al.|[2603.06573](https://arxiv.org/abs/2603.06573)|**[link](https://github.com/Insta360-Research-Team/Fly360)**|
 |**2026-03-06**|**SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation**|Vishal Thengane et.al.|[2603.06572](https://arxiv.org/abs/2603.06572)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
